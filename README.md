@@ -3,9 +3,9 @@ This repository contains the source code for the project "Interview with AI". It
 
 This is both voice activated and user can type the source code for any algorithmic type question, It is usign GPT-4 as main judge model and Whisper for Text to Speech and Speech to Text.
 
-## Demo
+## Demo (Click on the image)
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://raw.githubusercontent.com/eshassy/Interview-with-AI/main/banner.png" width="50%">](https://youtu.be/nVvWuQhQC7g)
 
 ## Usage
 
