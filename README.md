@@ -5,3 +5,16 @@ This is both voice activated and user can type the source code for any algorithm
 
 ## Demo
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
+## Usage
+
+- Install the required dependencies by running
+```bash
+pip install -r requirements.txt
+```
+- Get the OpenAI api key and put it into the `.env` folder
+- Execute the `main` file as
+```bash
+gradio main.py
+```
